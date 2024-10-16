@@ -16,17 +16,17 @@
 - Mail functionality using node-mailer
 
 <p align="center">
-<img src="https://github.com/himuexe/Hackathon-Frontend/blob/7e1649ed07e2928ecc4fb5013dbc0df075bf967a/frontend/public/captures/Capture.PNG">
+<img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture.PNG">
 
 
 
 <p align="center">
-<img src="https://github.com/himuexe/Hackathon-Frontend/blob/7e1649ed07e2928ecc4fb5013dbc0df075bf967a/frontend/public/captures/Capture1.PNG">
+<img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture1.PNG">
 
 
 
 <p align="center">
-<img src="https://github.com/himuexe/Hackathon-Frontend/blob/7e1649ed07e2928ecc4fb5013dbc0df075bf967a/frontend/public/captures/Capture2.PNG">
+<img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture2.PNG">
 
 
 # Setting Up the  App
