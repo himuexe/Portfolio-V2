@@ -4,7 +4,7 @@
 A sophisticated personal portfolio website built with Next.js 13 and enhanced with modern animation libraries and interactive elements. This project showcases professional work through an engaging, dynamic user interface.
 
 ## Preview
-![Portfolio Home]
+
 
 <p align="center">
 <img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture.PNG">
@@ -14,6 +14,10 @@ A sophisticated personal portfolio website built with Next.js 13 and enhanced wi
 <p align="center">
 <img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture1.PNG">
 
+
+
+<p align="center">
+<img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture2.PNG">
 
 ## Visual Features
 - **Animated Backgrounds**: Utilizing Vanta.js for dynamic 3D backgrounds
@@ -164,7 +168,4 @@ License.md
 
 
 
-
-<p align="center">
-<img src="https://github.com/himuexe/Portfolio-V3/blob/dedecef9c8c8e96a0f53dc73cf3d41c5a941ac79/public/media/images/Capture2.PNG">
 
